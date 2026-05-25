@@ -63,6 +63,8 @@ PilahNusa-AI/
 │   ├── .env.example            # Contoh konfigurasi environment
 │   ├── package.json            # Dependensi dan script npm
 │   └── vite.config.js          # Konfigurasi Vite dan proxy API
+├── api/                        # Entry point serverless Vercel
+├── package.json                # Wrapper build untuk deploy Vercel
 ├── README.md
 └── vercel.json                 # Konfigurasi deploy Vercel dari root repository
 ```
