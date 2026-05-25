@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "npm ci --prefix FullStack && npm run build --prefix FullStack"
   }
